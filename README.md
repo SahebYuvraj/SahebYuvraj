@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Saheb 👋
 
-<!--
-**SahebYuvraj/SahebYuvraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student at the Australian National University (ANU) with a strong interest in systems programming, backend engineering, and applied AI.
 
-Here are some ideas to get you started:
+I enjoy building things from the ground up — from a POSIX-style shell in Java to computer vision pipelines and full-stack applications. I care about understanding *how* systems work, not just making them work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on
+- Systems and backend projects (Java, Python)
+- Networking and low-level tooling
+- Applied computer vision and AI projects with the ACT government
+
+### Tools & technologies
+- Java, Python, JavaScript/TypeScript
+- Linux, Git, networking fundamentals
+- AWS
+- Backend development and systems programming
+- Computer vision & applied AI
+
+### Notable work
+- Built a POSIX-style shell in Java (CodeCrafters, global rank #154)
+- Drone-based computer vision project for the ACT Government
+- Full-stack and mobile applications used by real users
+
+📫 **Email:** saheb.yuvraj@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/sahebyuvraj
